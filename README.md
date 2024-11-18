@@ -1,16 +1,6 @@
-# pks6
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Практичсекая работа №8
+## Рабкин Артур ЭФБО-05-22
+### Запущенное приложение 
+![image](https://github.com/user-attachments/assets/bba191cd-3024-4852-bbae-14ba0e41596f)
+### Запущенный сервер 
+![image](https://github.com/user-attachments/assets/be90e9de-d225-4036-a30e-c223fca5b75b)
